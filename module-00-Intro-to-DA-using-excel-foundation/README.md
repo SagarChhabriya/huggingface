@@ -2,7 +2,10 @@
 
 
 
-## 1. Data Literacy
+## 1. Data Literacy 
+
+
+
 
 ## 2. Statistical Foundations
 ## 3. Descriptive Statistics
